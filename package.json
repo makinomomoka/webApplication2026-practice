@@ -1,0 +1,33 @@
+{
+  "name": "20260821",
+  "version": "1.0.0",
+  "description": "��\r\u0000 \u0000#\u0000 \u0000w\u0000e\u0000b\u0000A\u0000p\u0000p\u0000l\u0000i\u0000c\u0000a\u0000t\u0000i\u0000o\u0000n\u00002\u00000\u00002\u00006\u0000-\u0000p\u0000r\u0000a\u0000c\u0000t\u0000i\u0000c\u0000e\u0000\r\u0000 \u0000#\u0000#\u0000 \u00002\u00000\u00002\u00006\u0000/\u00000\u00008\u0000/\u00002\u00001\u0000\r\u0000 \u0000t\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000\r\u0000 \u0000#\u0000#\u0000 \u0000�0�0�0�0�0�0�0\r\u0000 \u0000p\u0000u\u0000s\u0000h\u0000�0�0�0\r\u0000 \u0000\r\u0000 \u0000#\u0000#\u0000 \u0000�0�0�0�0�0�0�02\u0000\r\u0000 \u0000�0�0�0�0�0�0�0�0�0�0�0�0�0W0f0�0�0�0�0k0\fT\u001fgY0�0\r\u0000 \u0000\r\u0000 \u0000#\u0000#\u0000\u00000s�0}�`1X�0�0�0�0�0Y0�0\r\u0000 \u0000�0�0�0�0�0�0�0�0�0�NQ0f0�0�0�0�0Y0�0\r\u0000 \u0000\r\u0000 \u0000#\u0000#\u0000 \u0000�0�0�0�0�Ock\r\u0000 \u0000�0�0�0�0g0�OckY0�0\r\u0000 \u0000\r\u0000 \u0000#\u0000#\u0000 \u0000�0�0�0�0�Ock\r\u0000 \u0000�0�0�0�0g0�OckY0�0\r\u0000 \u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --exec tsx src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makinomomoka/webApplication2026-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/makinomomoka/webApplication2026-practice/issues"
+  },
+  "homepage": "https://github.com/makinomomoka/webApplication2026-practice#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.2.0",
+    "nodemon": "^3.1.14",
+    "tsx": "^4.23.12",
+    "typescript": "^7.0.2"
+  }
+}
